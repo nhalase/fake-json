@@ -1,0 +1,29 @@
+{
+  "movies": [
+    {
+      id: 0,
+      title: "Oppenheimer",
+      year: 2023
+    },
+    {
+      id: 1,
+      title: "Barbie",
+      year: 2023
+    },
+    {
+      id: 2,
+      title: "Pulp Fiction",
+      year: 1994
+    },
+    {
+      id: 3,
+      title: "The Hunt for Red October",
+      year: 1990
+    },
+    {
+      id: 4,
+      title: "The Fugitive",
+      year: 1993
+    }
+  ]
+}
